@@ -21,22 +21,37 @@ Using **Snowflake Cortex AI and Snowflake Intelligence**, the system enables mar
 This enables marketing teams to improve campaign targeting and customer engagement strategies.
 
 ---
-What You Learned
+## What we Learned
 You now have experience with:
-•	Setting up Snowflake environment for Braze engagement data and product reviews
-•	Creating Semantic Views for structured data analysis with SQL DDL
-•	Creating Cortex Search Services for unstructured data analysis (RAG)
-•	Using Snowflake Intelligence to query both structured and unstructured data
-•	Combining multiple AI tools for comprehensive marketing insights
-What You Built
+- Setting up Snowflake environment for Braze engagement data and product reviews
+- Creating Semantic Views for structured data analysis with SQL DDL
+- Creating Cortex Search Services for unstructured data analysis (RAG)
+- Using Snowflake Intelligence to query both structured and unstructured data
+- Combining multiple AI tools for comprehensive marketing insights
+---
+## What we Built
 Your complete solution includes:
-•	Data Pipeline: Stores and processes Braze email engagement data and product reviews in Snowflake
-•	Semantic View: Enables natural language queries on structured campaign data through Cortex Analyst
-•	Cortex Search Service: Enables semantic search on unstructured product reviews
-•	Snowflake Intelligence Agent: Combines both tools for comprehensive marketing analysis
-Key Capabilities
+- Data Pipeline: Stores and processes Braze email engagement data and product reviews in Snowflake
+- Semantic View: Enables natural language queries on structured campaign data through Cortex Analyst
+- Cortex Search Service: Enables semantic search on unstructured product reviews
+- Snowflake Intelligence Agent: Combines both tools for comprehensive marketing analysis
+
+---
+## Key Capabilities
 Your solution can:
-•	Query email campaign performance using natural language
+- Query email campaign performance using natural language
+- Search and analyze customer product reviews semantically
+- Combine insights from both structured and unstructured data
+- Provide actionable recommendations for marketing optimization
+- Maintain data integrity by grounding responses in actual data
+## Next Steps
+To extend this solution, consider:
+- Adding more Braze data tables (push notifications, in-app messages, etc.)
+- Incorporating additional product review sources
+- Creating scheduled data refreshes for real-time insights
+- Building custom agents for specific marketing use cases
+- Implementing user access controls and sharing capabilities
+
 
 
 
