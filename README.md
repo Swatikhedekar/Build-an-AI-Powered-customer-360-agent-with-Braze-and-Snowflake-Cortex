@@ -1,2 +1,2 @@
 # Build-AI-Powered-Campaign-Analytics-with-Braze-and-Snowflake-Cortex
-![Project Banner](Assets/main-banner.png)
+![Project Banner](Assets/banner.png)
