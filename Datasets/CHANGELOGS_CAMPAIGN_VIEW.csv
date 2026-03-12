@@ -1,0 +1,207 @@
+ID,TIME,APP_GROUP_ID,API_ID,NAME,CONVERSION_BEHAVIORS,ACTIONS
+fTppC7vLrqeUBk,1631493357,XkR9Q2LpD8z,eUO50l724rERGDk,End_of_season_clearance,"[
+  {
+    ""type"": ""Starts Session"",
+    ""window"": 3600
+  },
+  {
+    ""type"": ""Makes Any Purchase"",
+    ""window"": 14400
+  }
+]","[
+  {
+    ""id"": ""z9K6Mn2xXvL1dEp"",
+    ""message_variations"": [
+      {
+        ""api_id"": ""3Wg80fScJSx21Y"",
+        ""name"": ""Final Markdowns – Up to 70% Off""
+      }
+    ]
+  }
+]"
+nMddF2xWzmaRCj,1630467263,XkR9Q2LpD8z,Ynq7dF68DtlNRLx,Back in Stock Favorites,"[
+  {
+    ""type"": ""Makes Any Purchase"",
+    ""window"": 14400
+  },
+  {
+    ""custom_event_name"": ""confirmed_order"",
+    ""type"": ""Performs Custom Event"",
+    ""window"": 14400
+  }
+]","[
+  {
+    ""id"": ""CgHtfyv6Gab3zPP"",
+    ""message_variations"": [
+      {
+        ""api_id"": ""xCnh3rY5bKG4PP"",
+        ""name"": ""You Asked, They're Back""
+      }
+    ]
+  }
+]"
+xQbbH1sYpnaETg,1631537410,XkR9Q2LpD8z,SKc3PUQ9YauRbrJ,New Arrivals: Just Landed,"[
+  {
+    ""type"": ""Makes Any Purchase"",
+    ""window"": 14400
+  },
+  {
+    ""custom_event_name"": ""braze_tracker_order_confirmed"",
+    ""type"": ""Performs Custom Event"",
+    ""window"": 86400
+  }
+]","[
+  {
+    ""id"": ""K0aIMVymi2HTNp7"",
+    ""message_variations"": [
+      {
+        ""api_id"": ""92yR6HPtglfYMk"",
+        ""name"": ""The Latest Styles Are Here""
+      }
+    ]
+  }
+]"
+rLaaB5mKcwaVDp,1630467974,XkR9Q2LpD8z,fWaKPnbbhxYY6G7,Your Personalized Picks,"[
+  {
+    ""type"": ""Makes Any Purchase"",
+    ""window"": 14400
+  },
+  {
+    ""custom_event_name"": ""braze_tracker_order_confirmed"",
+    ""type"": ""Performs Custom Event"",
+    ""window"": 86400
+  }
+]","[
+  {
+    ""id"": ""MvpzegpaMv3ol3M"",
+    ""message_variations"": [
+      {
+        ""api_id"": ""NIDvGE1MhlOH2M"",
+        ""name"": ""Your Wishlist, Delivered""
+      }
+    ]
+  }
+]"
+kZeeN3yTomaLGh,1630470954,XkR9Q2LpD8z,2UJenn43fRCXFg8,Limited Edition Drop,"[
+  {
+    ""type"": ""Starts Session"",
+    ""window"": 3600
+  },
+  {
+    ""type"": ""Makes Any Purchase"",
+    ""window"": 14400
+  }
+]","[
+  {
+    ""id"": ""S8iCiPiSPUTq5fj"",
+    ""message_variations"": [
+      {
+        ""api_id"": ""ryDkt1UTL6Qlkl"",
+        ""name"": ""Based on What You Love""
+      }
+    ]
+  }
+]"
+tNggD0rJfzaMWh,1630457108,XkR9Q2LpD8z,AYRRmRufHFuB5qX,Anniversary Thank You Sale,"[
+  {
+    ""type"": ""Makes Any Purchase"",
+    ""window"": 14400
+  },
+  {
+    ""custom_event_name"": ""braze_tracker_order_confirmed"",
+    ""type"": ""Performs Custom Event"",
+    ""window"": 86400
+  }
+]","[
+  {
+    ""id"": ""brmVaZKzH79WRlQ"",
+    ""message_variations"": [
+      {
+        ""api_id"": ""FSwSab3A9DCkiz"",
+        ""name"": ""Based on What You Love""
+      }
+    ]
+  }
+]"
+mVccA8wQxnaSEj,1630475422,XkR9Q2LpD8z,3xMnXxeajZsL6ZC,Free Shipping Weekend,"[
+  {
+    ""type"": ""Starts Session"",
+    ""window"": 3600
+  },
+  {
+    ""type"": ""Makes Any Purchase"",
+    ""window"": 14400
+  }
+]","[
+  {
+    ""id"": ""aXBwlxlHWf67tOG"",
+    ""message_variations"": [
+      {
+        ""api_id"": ""3TIyuNcnLsga1w"",
+        ""name"": ""We’ll Cover Shipping Costs""
+      }
+    ]
+  }
+]"
+ySbbK9nLamaQDh,1630471160,XkR9Q2LpD8z,vgt3wN7sWPbnI4Y,Exclusive Member Preview,"[
+  {
+    ""type"": ""Makes Any Purchase"",
+    ""window"": 14400
+  },
+  {
+    ""custom_event_name"": ""braze_tracker_order_confirmed"",
+    ""type"": ""Performs Custom Event"",
+    ""window"": 86400
+  }
+]","[
+  {
+    ""id"": ""oB23ss81rLGgW74"",
+    ""message_variations"": [
+      {
+        ""api_id"": ""pmpTnlOIDuUJ63"",
+        ""name"": ""Members Get First Dibs""
+      }
+    ]
+  }
+]"
+vPddE6tUqwaNCk,1630459141,XkR9Q2LpD8z,8LjjwTI3SCJKEAR,Our Favorites Lookbook,"[
+  {
+    ""type"": ""Starts Session"",
+    ""window"": 3600
+  },
+  {
+    ""type"": ""Makes Any Purchase"",
+    ""window"": 14400
+  }
+]","[
+  {
+    ""id"": ""Ze9TMKuruJ4IrEI"",
+    ""message_variations"": [
+      {
+        ""api_id"": ""IBn415L0Jwgp6q"",
+        ""name"": ""Our Best Finds""
+      }
+    ]
+  }
+]"
+jHaaC4zRmnaBDf,1630458708,XkR9Q2LpD8z,74kkOE3Y5ykuYAr,Hot of the Press Offers,"[
+  {
+    ""type"": ""Makes Any Purchase"",
+    ""window"": 14400
+  },
+  {
+    ""custom_event_name"": ""braze_tracker_order_confirmed"",
+    ""type"": ""Performs Custom Event"",
+    ""window"": 86400
+  }
+]","[
+  {
+    ""id"": ""5EgQTBmtIJf1qSw"",
+    ""message_variations"": [
+      {
+        ""api_id"": ""PvxyefpxSXYBMg"",
+        ""name"": ""Your Wardrobe, Updated""
+      }
+    ]
+  }
+]"
