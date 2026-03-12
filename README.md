@@ -10,6 +10,9 @@ An AI-powered 360 marketing analytics platform that combines Braze email engagem
 This solution builds a **Customer 360 Marketing Analytics platform** by integrating Braze campaign engagement data with product reviews in Snowflake.
 
 Using **Snowflake Cortex AI and Snowflake Intelligence**, the system enables marketers to ask natural language questions and receive actionable insights from both structured and unstructured data.
+## Architecture Overview
+![Project Banner](Assets/architecture_dia.png)
+
 
 ### The platform supports:
 
